@@ -1,1 +1,1 @@
-# recipe_api
+# recipes listing api
